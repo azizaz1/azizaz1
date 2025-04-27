@@ -5,7 +5,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=azizaz1&color=blue)
 
 ## 🚀 About Me  
-💻 Passionate **Software Engineer** specializing in **Web & Embedded Systems**  
+💻 Passionate **Software Engineer** specializing in **Genie logiciel**  
 ⚡ Skilled in **Angular, Spring Boot, JavaScript, Node.js, C, C++ & Python**  
 🌍 Love building **scalable and efficient applications**  
 
